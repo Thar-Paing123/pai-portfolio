@@ -41,3 +41,11 @@ Desktop and mobile browser checks covered 1440, 1024, 768, 390, and 320-pixel wi
 ## Deployment configuration
 
 For a public deployment, configure `DJANGO_DEBUG=0`, a private `DJANGO_SECRET_KEY`, and `DJANGO_ALLOWED_HOSTS` (comma-separated domain names). Run `python manage.py collectstatic` and configure your hosting platform to serve `staticfiles/`. Use a production WSGI/ASGI server rather than Django's development server. This project has been built and verified locally; it has not been deployed publicly.
+
+## Project documentation
+
+- [Skills and capabilities](skills.md): professional expertise and implementation skills.
+- [Requirements](requirement.md): website scope, behavior, dependencies, and acceptance criteria.
+- [Business brief](business.md): audiences, positioning, visitor journeys, and success criteria.
+- [Architecture](architecture.md): request flow, content storage, integrations, and file responsibilities.
+- [Deployment and operations](deployment.md): local setup, production configuration, and Git publishing.
