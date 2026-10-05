@@ -20,7 +20,7 @@ The portfolio connects Odoo technical leadership with enterprise AI engineering.
 
 - Include every project listed in the résumé; keep search and progressive browsing available so the archive remains approachable.
 - Describe the owner's role, team size when documented, and actual implementation modules.
-- Use CSS illustrations as visual aids, without presenting them as real client-system screenshots.
+- Use clear project cards showing category, role, scope, and modules; do not imply that illustrative graphics are client-system screenshots.
 - Avoid invented business results, performance percentages, client endorsements, or availability claims.
 - Maintain consistent contact details and clearly visible GitHub and LinkedIn links.
 

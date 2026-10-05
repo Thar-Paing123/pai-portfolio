@@ -19,7 +19,7 @@
 | `portfolio/data.py` | Résumé-derived portfolio content |
 | `portfolio/views.py` | Home rendering and PDF download |
 | `portfolio/templates/portfolio/home.html` | Page structure and content presentation |
-| `portfolio/static/portfolio/style.css` | Responsive styling and CSS illustrations |
+| `portfolio/static/portfolio/style.css` | Responsive styling, professional profile layout, and project cards |
 | `portfolio/static/portfolio/app.js` | Search, filters, progressive browsing, navigation, clipboard feedback |
 | `portfolio/static/portfolio/assets/` | Photo, original résumé PDF, and favicon |
 | `portfolio/tests.py` | Rendered content and download tests |

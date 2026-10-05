@@ -25,7 +25,7 @@ Open http://127.0.0.1:8001/. Port 8001 is used because 8000 was occupied during 
 - Replace `portfolio/static/portfolio/assets/portrait.jpg` to update your photo.
 - Replace `portfolio/static/portfolio/assets/resume.pdf` to update the downloadable CV.
 
-Project illustrations are CSS graphics, not screenshots of client systems. Content is summarized from the provided résumé. The ambiguous phone number in the source was omitted; contact uses the source email. Email links open the visitor's email application, and the copy button copies the address. There is no message submission form or email delivery service.
+Project cards show the implementation category, owner’s role, scope, and technology tags. Content is summarized from the provided résumé. The ambiguous phone number in the source was omitted; contact uses the source email. Email links open the visitor's email application, and the copy button copies the address. There is no message submission form or email delivery service.
 
 The fonts load from Google Fonts when online, with local system font fallbacks. No frontend build tools are needed.
 
